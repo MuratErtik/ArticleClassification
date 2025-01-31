@@ -103,6 +103,9 @@ After training the model, the following evaluation metrics were obtained:
 
 - **Inference Time**: 0.0389 seconds
 
+![Confusion Matrix](assets/Unknown.png)
+![ROC Curve](assets/Unknown-2.png)
+
 ### Summary:
 
 The model was trained effectively with reasonable loss reduction over 5 epochs. The evaluation metrics show a well-performing model, with an accuracy of 93.71% and high values for Precision, Recall, F1 Score, Sensitivity, Specificity, and AUC. The inference time is also quite low, making the model suitable for real-time applications.
